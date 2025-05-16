@@ -1,3 +1,2 @@
-
-def add(a, b):
-    return a + b
+# Example Python code
+print('Hello from PyGithub')
