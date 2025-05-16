@@ -1,2 +1,3 @@
-# Example Python code
-print('Hello from PyGithub')
+
+def add(a, b):
+    return a + b
